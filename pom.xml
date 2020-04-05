@@ -18,11 +18,11 @@
     <distributionManagement>
         <snapshotRepository>
             <id>github</id>
-            <url>https://maven.pkg.github.com/basestar/${project.name}</url>
+            <url>https://maven.pkg.github.com/basestar/spark-streaming-dynamodb-asl_2.12</url>
         </snapshotRepository>
         <repository>
             <id>github</id>
-            <url>https://maven.pkg.github.com/basestar/${project.name}</url>
+            <url>https://maven.pkg.github.com/basestar/spark-streaming-dynamodb-asl_2.12</url>
         </repository>
     </distributionManagement>
 
